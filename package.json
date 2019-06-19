@@ -1,0 +1,15 @@
+{
+  "name": "snabbdom-tags",
+  "description": "Hyperscript HTML tag helpers for snabbdom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "prettier": {},
+  "devDependencies": {
+    "snabbdom": "^0.7.3",
+    "typescript": "^3.5.2"
+  },
+  "peerDependencies": {
+    "snabbdom": "*"
+  }
+}
